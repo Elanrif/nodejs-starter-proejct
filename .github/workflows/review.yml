@@ -1,4 +1,4 @@
-name: Reviewdog CI # Nom du workflow
+name: Reviewd CI # Nom du workflow
 
 on:
     push: # Déclenchement lors des push
